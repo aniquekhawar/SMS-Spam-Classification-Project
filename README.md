@@ -1,5 +1,5 @@
 # SMS-Spam-Classification-Project
-> In this project, I worked with UCI's spam SMS message dataset for my final project for the Natural Language Processing course (MSDS-453) in the MSDS Program at Northwestern University.
+> In this project, I worked with UCI's spam SMS message dataset for my final project in Natural Language Processing (MSDS-453) at Northwestern University.
 
 > If you want to view the code easily, you can download the HTML file and view it locally in your browser.
 
